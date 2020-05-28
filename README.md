@@ -1,12 +1,16 @@
 # 浏览器信息
 
+[![npm](https://img.shields.io/npm/v/browser-parse)](https://www.npmjs.com/package/browser-parse)
+[![npm](https://img.shields.io/npm/dt/browser-parse)](https://www.npmjs.com/package/browser-parse)
+[![GitHub stars](https://img.shields.io/github/stars/arbing/browser-parse?style=social)](https://github.com/arbing/browser-parse)
+
 ## 浏览器：
 
 Chrome - 谷歌浏览器
 
 Chromium - 谷歌浏览器开源版
 
-IE - 微软IE浏览器
+IE - 微软 IE 浏览器
 
 Edge - 微软新一代浏览器
 
@@ -14,13 +18,13 @@ Firefox - 火狐浏览器
 
 Safari - 苹果系统默认浏览器
 
-Opera - Opera浏览器
+Opera - Opera 浏览器
 
-Vivaldi - Opera联合创始人发布
+Vivaldi - Opera 联合创始人发布
 
-Yandex - 俄罗斯最大搜索引擎Yandex出品
+Yandex - 俄罗斯最大搜索引擎 Yandex 出品
 
-Arora - 基于webkit和Qt的轻量级浏览器
+Arora - 基于 webkit 和 Qt 的轻量级浏览器
 
 Lunascape - 来自日本的三引擎浏览器
 
@@ -30,7 +34,7 @@ Coc Coc - 越南搜索引擎浏览器
 
 Kindle - 亚马逊电子书
 
-Iceweasel - Firefox浏览器的Debian再发布版
+Iceweasel - Firefox 浏览器的 Debian 再发布版
 
 Konqueror
 
@@ -40,17 +44,17 @@ SeaMonkey
 
 Epiphany
 
-360 - 360浏览器(手机版)
+360 - 360 浏览器(手机版)
 
-360SE - 360安全浏览器
+360SE - 360 安全浏览器
 
-360EE - 360极速浏览器
+360EE - 360 极速浏览器
 
-UC - UC浏览器
+UC - UC 浏览器
 
-QQBrowser - QQ浏览器
+QQBrowser - QQ 浏览器
 
-QQ - QQ客户端
+QQ - QQ 客户端
 
 Baidu - 百度浏览器
 
@@ -60,9 +64,9 @@ Sogou - 搜狗浏览器
 
 LBBROWSER - 猎豹浏览器
 
-2345Explorer - 2345浏览器
+2345Explorer - 2345 浏览器
 
-115Browser - 115浏览器
+115Browser - 115 浏览器
 
 TheWorld - 世界之窗浏览器
 
@@ -72,7 +76,7 @@ XiaoMi - 小米浏览器
 
 Huawei - 华为浏览器
 
-Vivo - Vivo浏览器
+Vivo - Vivo 浏览器
 
 Quark - 夸克浏览器
 
@@ -116,7 +120,7 @@ FreeBSD
 
 Debian
 
-Mac	OS
+Mac OS
 
 Android
 
@@ -138,6 +142,6 @@ WebOS
 
 PC - 电脑
 
-Tablet - 平板或PDA
+Tablet - 平板或 PDA
 
 Mobile - 手机
